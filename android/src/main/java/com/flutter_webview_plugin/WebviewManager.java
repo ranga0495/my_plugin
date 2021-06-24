@@ -21,6 +21,7 @@ import android.webkit.WebView;
 import android.widget.FrameLayout;
 import android.provider.MediaStore;
 import android.graphics.Bitmap;
+import android.graphics.Canvas;
 
 import androidx.core.content.FileProvider;
 
